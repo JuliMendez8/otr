@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\FuncionesPC\FuncionesPC\bin\Debug\FuncionesPC.exe.config
+C:\Users\Usuario\source\repos\FuncionesPC\FuncionesPC\bin\Debug\FuncionesPC.exe
+C:\Users\Usuario\source\repos\FuncionesPC\FuncionesPC\bin\Debug\FuncionesPC.pdb
+C:\Users\Usuario\source\repos\FuncionesPC\FuncionesPC\obj\Debug\FuncionesPC.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\FuncionesPC\FuncionesPC\obj\Debug\FuncionesPC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\FuncionesPC\FuncionesPC\obj\Debug\FuncionesPC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\FuncionesPC\FuncionesPC\obj\Debug\FuncionesPC.exe
+C:\Users\Usuario\source\repos\FuncionesPC\FuncionesPC\obj\Debug\FuncionesPC.pdb

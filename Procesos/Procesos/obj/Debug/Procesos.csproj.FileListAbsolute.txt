@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Procesos\Procesos\bin\Debug\Procesos.exe.config
+C:\Users\Usuario\source\repos\Procesos\Procesos\bin\Debug\Procesos.exe
+C:\Users\Usuario\source\repos\Procesos\Procesos\bin\Debug\Procesos.pdb
+C:\Users\Usuario\source\repos\Procesos\Procesos\obj\Debug\Procesos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Procesos\Procesos\obj\Debug\Procesos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Procesos\Procesos\obj\Debug\Procesos.frm1.resources
+C:\Users\Usuario\source\repos\Procesos\Procesos\obj\Debug\Procesos.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Procesos\Procesos\obj\Debug\Procesos.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Procesos\Procesos\obj\Debug\Procesos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Procesos\Procesos\obj\Debug\Procesos.exe
+C:\Users\Usuario\source\repos\Procesos\Procesos\obj\Debug\Procesos.pdb

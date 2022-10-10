@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Funciones\Funciones\bin\Debug\Funciones.dll
+C:\Users\Usuario\source\repos\Funciones\Funciones\bin\Debug\Funciones.pdb
+C:\Users\Usuario\source\repos\Funciones\Funciones\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Usuario\source\repos\Funciones\Funciones\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Usuario\source\repos\Funciones\Funciones\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Usuario\source\repos\Funciones\Funciones\obj\Debug\Funciones.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Funciones\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Funciones\Funciones\obj\Debug\Funciones.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Funciones\Funciones\obj\Debug\Funciones.dll
+C:\Users\Usuario\source\repos\Funciones\Funciones\obj\Debug\Funciones.pdb
